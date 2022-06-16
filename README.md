@@ -12,4 +12,4 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 1. **Harnessing the power of machine learning for carbon capture, utilisation, and storage (CCUS) – a state-of-the-art review.** Energy Environ. Sci., 2021. [paper](https://pubs.rsc.org/en/content/articlelanding/2021/ee/d1ee02395k)
 
-    *Mohammad Rahimi, Seyed Mohamad Moosavi, Berend Smit, T. Alan Hatton.* 
+    *Jude Odianosen Asibor, Zhien Zhang, Ding Shao, Lijuan Wang, Wenbiao Zhang, Yong Yan, William Ampomah, Junyu You, Meihong Wang, Edward J. Anthony, Vasilije Manovic, Peter T. Clough* 
