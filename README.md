@@ -15,11 +15,11 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf)
 
+1. **Machine Learning-driven High-Throughput Screening of Alloy-Based Catalysts for Selective CO2 Hydrogenation to Methanol.** [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
 
 ## [Capture by Forests](#content)
 
 1. **Quantification of Carbon Sequestration in Urban Forests.**  ArXiv, 2021. [paper](https://arxiv.org/abs/2106.00182v2)
-
 
 1. **Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees.**, ArXiv, 2020. [paper](https://arxiv.org/abs/2009.10263)
  
@@ -81,6 +81,4 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.** [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
 
 1. **Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO2 capture**, [paper](https://pubs.acs.org/doi/abs/10.1021/jz501331m)
-
-1. **Machine Learning driven High Throughput Screening of Alloy Based Catalysts for Selective CO2 Hydrogenation to Methanol.** [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
 
