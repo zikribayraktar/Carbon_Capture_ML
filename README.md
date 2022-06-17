@@ -35,6 +35,7 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.** [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
 
+1. **Deep learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, [paper](https://chemrxiv.org/engage/chemrxiv/article-details/611fb4011d1cc24b4bc8b0e1)
 
 ## [Capture by Forests](#content)
 
@@ -72,8 +73,6 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 
 ## [OTHERS](#content)
-
-1. **Deep learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, [paper](https://chemrxiv.org/engage/chemrxiv/article-details/611fb4011d1cc24b4bc8b0e1)
 
 1. **Applied Machine Learning for Prediction of CO2 Adsorption on Biomass Waste-Derived Porous Carbons**, [paper](https://pubs.acs.org/doi/10.1021/acs.est.1c01849)
 
