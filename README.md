@@ -19,6 +19,9 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 1. **Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO2 capture**, [paper](https://pubs.acs.org/doi/abs/10.1021/jz501331m)
 
+1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.** [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
+
+
 ## [Capture by Forests](#content)
 
 1. **Quantification of Carbon Sequestration in Urban Forests.**  ArXiv, 2021. [paper](https://arxiv.org/abs/2106.00182v2)
@@ -80,5 +83,5 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 1. **Machine-learning approach to the design of OSDAs for zeolite beta**, [paper](https://www.pnas.org/content/116/9/3413)
 
-1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.** [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
+
 
