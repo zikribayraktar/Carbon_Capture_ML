@@ -81,9 +81,7 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 1. **Robust Machine Learning Models for Predicting High CO2 Working Capacity and CO2/H2 Selectivity of Gas Adsorption in Metal Organic Frameworks for Precombustion Carbon Capture**, [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10644)
 
-1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
-
-1. **Pakzad, P., Mofarahi, M., Izadpanah, A.A., and Afkhamipour, M. (2020). Experimental data, thermodynamic and neural network modeling of CO2 absorption capacity for 2-amino-2-methyl-1-propanol (AMP)+ Methanol (MeOH)+ H2O system**, [paper](https://www.sciencedirect.com/science/article/pii/S1875510019303129)
+1. **Experimental data, thermodynamic and neural network modeling of CO2 absorption capacity for 2-amino-2-methyl-1-propanol (AMP)+ Methanol (MeOH)+ H2O system**, [paper](https://www.sciencedirect.com/science/article/pii/S1875510019303129)
 
 1. **Performance evaluation of the machine learning approaches in modeling of CO2 equilibrium absorption in Piperazine aqueous solution.**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217352066)
 
