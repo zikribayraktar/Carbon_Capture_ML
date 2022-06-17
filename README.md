@@ -27,6 +27,11 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 
 
+## [Surrogate Models](#content)
+
+1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
+
+
 ## [Capture by Forests](#content)
 
 1. **Quantification of Carbon Sequestration in Urban Forests.**  ArXiv, 2021. [paper](https://arxiv.org/abs/2106.00182v2)
@@ -81,8 +86,4 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids.**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
 1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.** [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
-
-1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
-
-
 
