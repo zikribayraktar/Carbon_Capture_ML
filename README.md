@@ -31,6 +31,10 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
 
+## [Process Modeling](#content)
+
+1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.** [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
+
 
 ## [Capture by Forests](#content)
 
@@ -84,6 +88,4 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 1. **Performance evaluation of the machine learning approaches in modeling of CO2 equilibrium absorption in Piperazine aqueous solution.**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217352066)
 
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids.**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
-
-1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.** [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
 
