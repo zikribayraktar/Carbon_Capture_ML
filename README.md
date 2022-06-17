@@ -11,6 +11,10 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 1. **Harnessing the power of machine learning for carbon capture, utilisation, and storage (CCUS) – a state-of-the-art review.** Energy Environ. Sci., 2021. [paper](https://pubs.rsc.org/en/content/articlelanding/2021/ee/d1ee02395k)
 
 
+## [Capture Material Screening](#content)
+
+1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf)
+
 
 ## [Capture by Forests](#content)
 
@@ -46,9 +50,6 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 1. **Wetland Change Mapping Using Machine Learning Algorithms, and Their Link with Climate Variation and Economic Growth: A Case Study of Guangling County, China**, [paper](https://www.mdpi.com/2071-1050/14/1/439/pdf)
 
 
-## [Capture Material Screening](#content)
-
-1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf)
 
 
 ## [OTHERS](#content)
