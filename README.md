@@ -21,6 +21,11 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.** [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
 
+1. **Machine-learning approach to the design of OSDAs for zeolite beta**, [paper](https://www.pnas.org/content/116/9/3413)
+
+1. **Designing exceptional gas-separation polymer membranes using machine learning**, [paper](https://www.science.org/doi/10.1126/sciadv.aaz4301)
+
+
 
 ## [Capture by Forests](#content)
 
@@ -78,10 +83,6 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.** [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
 
 1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
-
-1. **Designing exceptional gas-separation polymer membranes using machine learning**, [paper](https://www.science.org/doi/10.1126/sciadv.aaz4301)
-
-1. **Machine-learning approach to the design of OSDAs for zeolite beta**, [paper](https://www.pnas.org/content/116/9/3413)
 
 
 
