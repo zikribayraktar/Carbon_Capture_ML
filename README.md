@@ -11,7 +11,7 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 1. **Harnessing the power of machine learning for carbon capture, utilisation, and storage (CCUS) – a state-of-the-art review.** Energy Environ. Sci., 2021. [paper](https://pubs.rsc.org/en/content/articlelanding/2021/ee/d1ee02395k)
 
 
-## [Material Screening](#content)
+## [Material Screening / Design](#content)
 
 1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf)
 
