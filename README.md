@@ -17,6 +17,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Graph neural network predictions of metal organic framework CO2 adsorption properties**, [paper](https://arxiv.org/abs/2112.10231), github,
 
+1. **Machine Learning-Driven Discovery of Metal–Organic Frameworks for Efficient CO2 Capture in Humid Condition**, [paper](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.0c08806)
+
 1. **Machine Learning-driven High-Throughput Screening of Alloy-Based Catalysts for Selective CO2 Hydrogenation to Methanol.** [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
 
 1. **Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO2 capture**, [paper](https://pubs.acs.org/doi/abs/10.1021/jz501331m)
