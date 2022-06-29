@@ -13,7 +13,9 @@ This repo came to life following the [Climate Change AI's ML in Carbon Capture r
 
 ## [Material Screening / Design](#content)
 
-1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf)
+1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), github,
+
+1. **Graph neural network predictions of metal organic framework CO2 adsorption properties**, [paper](https://arxiv.org/abs/2112.10231), github,
 
 1. **Machine Learning-driven High-Throughput Screening of Alloy-Based Catalysts for Selective CO2 Hydrogenation to Methanol.** [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
 
