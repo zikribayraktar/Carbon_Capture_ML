@@ -35,6 +35,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
 
+1. **Performance-based ranking of porous materials for PSA carbon capture under the uncertainty of experimental data**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1385894722008981)
+
 ## [Process Modeling](#content)
 
 1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.** [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
