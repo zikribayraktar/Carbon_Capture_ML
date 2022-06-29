@@ -13,13 +13,13 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Material Screening / Design](#content)
 
-1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), github,
+1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents),
 
-1. **Graph neural network predictions of metal organic framework CO2 adsorption properties**, [paper](https://arxiv.org/abs/2112.10231), github,
+1. **Graph neural network predictions of metal organic framework CO2 adsorption properties**, [paper](https://arxiv.org/abs/2112.10231), [github](https://github.com/usnistgov/alignn),
 
 1. **Machine Learning-Driven Discovery of Metal–Organic Frameworks for Efficient CO2 Capture in Humid Condition**, [paper](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.0c08806)
 
-1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382)
+1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382), [github](https://github.com/timhuang123/ML-for-MMM)
 
 1. **Machine Learning-driven High-Throughput Screening of Alloy-Based Catalysts for Selective CO2 Hydrogenation to Methanol.** [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
 
