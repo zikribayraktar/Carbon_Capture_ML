@@ -87,17 +87,19 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [OTHERS](#content)
 
-1. **Applied Machine Learning for Prediction of CO2 Adsorption on Biomass Waste-Derived Porous Carbons**, [paper](https://pubs.acs.org/doi/10.1021/acs.est.1c01849)
+1. **Robust smart schemes for modeling carbon dioxide uptake in metal − organic frameworks**, 2022, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236121024145)
+
+1. **Applied Machine Learning for Prediction of CO2 Adsorption on Biomass Waste-Derived Porous Carbons**, 2021, [paper](https://pubs.acs.org/doi/10.1021/acs.est.1c01849)
 
 1. **Multiparameter Neural Network Modeling of Facilitated Transport Mixed Matrix Membranes for Carbon Dioxide Removal**, 2022, [paper](https://pubmed.ncbi.nlm.nih.gov/35448392/)
 
-1. **Realizing the Data-Driven, Computational Discovery of Metal-Organic Framework Catalysts**, [paper](https://arxiv.org/abs/2108.06667)
+1. **Realizing the Data-Driven, Computational Discovery of Metal-Organic Framework Catalysts**, 2021, [paper](https://arxiv.org/abs/2108.06667)
 
-1. **Robust Machine Learning Models for Predicting High CO2 Working Capacity and CO2/H2 Selectivity of Gas Adsorption in Metal Organic Frameworks for Precombustion Carbon Capture**, [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10644)
+1. **Robust Machine Learning Models for Predicting High CO2 Working Capacity and CO2/H2 Selectivity of Gas Adsorption in Metal Organic Frameworks for Precombustion Carbon Capture**, 2019, [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10644)
 
-1. **Experimental data, thermodynamic and neural network modeling of CO2 absorption capacity for 2-amino-2-methyl-1-propanol (AMP)+ Methanol (MeOH)+ H2O system**, [paper](https://www.sciencedirect.com/science/article/pii/S1875510019303129)
+1. **Experimental data, thermodynamic and neural network modeling of CO2 absorption capacity for 2-amino-2-methyl-1-propanol (AMP)+ Methanol (MeOH)+ H2O system**, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S1875510019303129)
 
-1. **Performance evaluation of the machine learning approaches in modeling of CO2 equilibrium absorption in Piperazine aqueous solution.**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217352066)
+1. **Performance evaluation of the machine learning approaches in modeling of CO2 equilibrium absorption in Piperazine aqueous solution.**, 2018, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217352066)
 
-1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids.**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
+1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids.**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
