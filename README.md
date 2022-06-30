@@ -4,12 +4,12 @@ Survey of all published Carbon Capture w/ ML papers, data, code and supplemental
 
 This repo came to life following the [ML in Carbon Capture reading group](https://www.climatechange.ai/blog/2022-05-31-reading-groups-recap) that I led for [Climate Change AI](https://www.climatechange.ai/) in early 2022. We reviewed some of the papers in our reading group discussions but felt the need to unify and centralize the ML based Carbon Capture literature, make it easily accessible with relevant code and data so that published works can be duplicated, verified and improved for the rest of us. 
 
-##### Table of Contents  
+## Table of Contents   <a name="content"/>
 [Survey papers](#survey)  
 [Data Platforms](#DATA PLATFORMS)  
 
 
-## [Survey papers](#survey)  <a name="survey"/>
+## [Survey papers](#content)  <a name="survey"/>
 
 1. **Toward smart carbon capture with machine learning.** Cell Reports Physical Science, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666386421000862)
 
@@ -112,7 +112,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
-## [DATA PLATFORMS](#dataplatforms)
+## [DATA PLATFORMS](#content)    <a name="dataplatforms"/>
 
 1. **Amazon Sustainability Data Initiative**, [URL](https://sustainability.aboutamazon.com/environment/the-cloud/asdi)
 
