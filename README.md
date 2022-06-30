@@ -5,11 +5,18 @@ Survey of all published Carbon Capture w/ ML papers, data, code and supplemental
 This repo came to life following the [ML in Carbon Capture reading group](https://www.climatechange.ai/blog/2022-05-31-reading-groups-recap) that I led for [Climate Change AI](https://www.climatechange.ai/) in early 2022. We reviewed some of the papers in our reading group discussions but felt the need to unify and centralize the ML based Carbon Capture literature, make it easily accessible with relevant code and data so that published works can be duplicated, verified and improved for the rest of us. 
 
 ## Table of Contents   <a name="content"/>
-[Survey papers](#survey)  
+[Survey Papers](#survey)
+[Material Screening / Design](#materialdesign)
+[Surrogate Models](#surrogatemodels)
+[Process Modeling](#processmodeling)
+[Capture by Forests](#captureforest)
+[Capture by Ocean](#captureocean)
+[Capture by Wetland](#capturewetland)
+[OTHERS](#others)
 [Data Platforms](#dataplatforms)  
 
 
-## [Survey papers](#content)  <a name="survey"/>
+## [Survey Papers](#content)  <a name="survey"/>
 
 1. **Toward smart carbon capture with machine learning.** Cell Reports Physical Science, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666386421000862)
 
@@ -17,8 +24,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **The Potential of Machine Learning for Enhancing CO2 Sequestration, Storage, Transportation, and Utilization-based Processes: A Brief Perspective**, 2022, [paper](https://link.springer.com/article/10.1007/s11837-021-05079-x)
 
-## [Material Screening / Design](#content)
-
+## [Material Screening / Design](#content)  <a name="materialdesign"/>
+ 
 1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents),
 
 1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, 2022, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382), [github](https://github.com/timhuang123/ML-for-MMM)
@@ -39,7 +46,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
-## [Surrogate Models](#content)
+## [Surrogate Models](#content)   <a name="surrogatemodels"/>
 
 1. **Performance-based ranking of porous materials for PSA carbon capture under the uncertainty of experimental data**, 2022, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1385894722008981)
 
@@ -48,7 +55,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
-## [Process Modeling](#content)
+## [Process Modeling](#content)   <a name="processmodeling"/>
 
 1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.**, 2021, [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
 
@@ -56,7 +63,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
-## [Capture by Forests](#content)
+## [Capture by Forests](#content)  <a name="captureforest"/>
 
 1. **Quantification of Carbon Sequestration in Urban Forests.**  ArXiv, 2021. [paper](https://arxiv.org/abs/2106.00182v2)
 
@@ -69,7 +76,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **Estimation of Future Changes in Aboveground Forest Carbon Stock in Romania. A Prediction Based on Forest-Cover Pattern Scenario.**, [paper](https://www.mdpi.com/1999-4907/11/9/914)
 
 
-## [Capture by Ocean](#content)
+## [Capture by Ocean](#content)   <a name="captureocean"/>
 
 1. **Improved Quantification of Ocean Carbon Uptake by Using Machine Learning to Merge Global Models and pCO2 Data.** [paper](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002620)
 
@@ -78,7 +85,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **Estimating spatial and temporal variation in ocean surface pCO2 in the Gulf of Mexico using remote sensing and machine learning techniques**, [paper](https://www.sciencedirect.com/science/article/pii/S0048969720344946)
 
 
-## [Capture by Wetland](#content)
+## [Capture by Wetland](#content)   <a name="capturewetland"/>
 
 1. **ArcticNet: A Deep Learning Solution to Classify Arctic Wetlands**, [paper](https://arxiv.org/pdf/1906.00133.pdf)
 
@@ -91,7 +98,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
-## [OTHERS](#content)
+## [OTHERS](#content)   <a name="others"/>
 
 1. **Robust smart schemes for modeling carbon dioxide uptake in metal − organic frameworks**, 2022, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236121024145)
 
