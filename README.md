@@ -104,3 +104,10 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids.**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
+
+
+
+## DATA PLATFORMS:
+
+1. **Amazon Sustainability Data Initiative**, [URL](https://sustainability.aboutamazon.com/environment/the-cloud/asdi)
+
