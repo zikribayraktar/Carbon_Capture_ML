@@ -107,7 +107,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
-## DATA PLATFORMS:
+## [DATA PLATFORMS](#content)
 
 1. **Amazon Sustainability Data Initiative**, [URL](https://sustainability.aboutamazon.com/environment/the-cloud/asdi)
 
