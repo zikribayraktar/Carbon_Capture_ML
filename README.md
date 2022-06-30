@@ -8,8 +8,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 [Survey papers](#survey)  
 [Data Platforms](#DATA PLATFORMS)  
 
-<a name="survey"/>
-## [Survey papers](#survey)
+
+## [Survey papers](#survey)  <a name="survey"/>
 
 1. **Toward smart carbon capture with machine learning.** Cell Reports Physical Science, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666386421000862)
 
