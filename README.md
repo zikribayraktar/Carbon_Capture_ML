@@ -13,37 +13,42 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Material Screening / Design](#content)
 
-1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents),
+1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents),
 
-1. **Graph neural network predictions of metal organic framework CO2 adsorption properties**, [paper](https://arxiv.org/abs/2112.10231), [github](https://github.com/usnistgov/alignn),
+1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, 2022, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382), [github](https://github.com/timhuang123/ML-for-MMM)
 
-1. **Machine Learning-Driven Discovery of Metal–Organic Frameworks for Efficient CO2 Capture in Humid Condition**, [paper](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.0c08806)
+1. **Graph neural network predictions of metal organic framework CO2 adsorption properties**, 2021, [paper](https://arxiv.org/abs/2112.10231), [github](https://github.com/usnistgov/alignn),
 
-1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382), [github](https://github.com/timhuang123/ML-for-MMM)
+1. **Machine Learning-Driven Discovery of Metal–Organic Frameworks for Efficient CO2 Capture in Humid Condition**, 2021, [paper](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.0c08806)
 
-1. **Machine Learning-driven High-Throughput Screening of Alloy-Based Catalysts for Selective CO2 Hydrogenation to Methanol.** [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
+1. **Machine Learning-driven High-Throughput Screening of Alloy-Based Catalysts for Selective CO2 Hydrogenation to Methanol.**, 2021, [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
 
-1. **Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO2 capture**, [paper](https://pubs.acs.org/doi/abs/10.1021/jz501331m)
+1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.**, 2020, [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
 
-1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.** [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
+1. **Designing exceptional gas-separation polymer membranes using machine learning**, 2020, [paper](https://www.science.org/doi/10.1126/sciadv.aaz4301)
 
-1. **Machine-learning approach to the design of OSDAs for zeolite beta**, [paper](https://www.pnas.org/content/116/9/3413)
+1. **Machine-learning approach to the design of OSDAs for zeolite beta**, 2018, [paper](https://www.pnas.org/content/116/9/3413)
 
-1. **Designing exceptional gas-separation polymer membranes using machine learning**, [paper](https://www.science.org/doi/10.1126/sciadv.aaz4301)
+1. **Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO2 capture**, 2014, [paper](https://pubs.acs.org/doi/abs/10.1021/jz501331m)
 
 
 
 ## [Surrogate Models](#content)
 
-1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
+1. **Performance-based ranking of porous materials for PSA carbon capture under the uncertainty of experimental data**, 2022, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1385894722008981)
 
-1. **Performance-based ranking of porous materials for PSA carbon capture under the uncertainty of experimental data**, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1385894722008981)
+1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, 2019, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
+
+
+
 
 ## [Process Modeling](#content)
 
-1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.** [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
+1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.**, 2021, [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
 
-1. **Deep learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, [paper](https://chemrxiv.org/engage/chemrxiv/article-details/611fb4011d1cc24b4bc8b0e1)
+1. **Deep learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, 2021, [paper](https://chemrxiv.org/engage/chemrxiv/article-details/611fb4011d1cc24b4bc8b0e1)
+
+
 
 ## [Capture by Forests](#content)
 
