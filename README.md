@@ -89,6 +89,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Applied Machine Learning for Prediction of CO2 Adsorption on Biomass Waste-Derived Porous Carbons**, [paper](https://pubs.acs.org/doi/10.1021/acs.est.1c01849)
 
+1. **Multiparameter Neural Network Modeling of Facilitated Transport Mixed Matrix Membranes for Carbon Dioxide Removal**, 2022, [paper](https://pubmed.ncbi.nlm.nih.gov/35448392/)
+
 1. **Realizing the Data-Driven, Computational Discovery of Metal-Organic Framework Catalysts**, [paper](https://arxiv.org/abs/2108.06667)
 
 1. **Robust Machine Learning Models for Predicting High CO2 Working Capacity and CO2/H2 Selectivity of Gas Adsorption in Metal Organic Frameworks for Precombustion Carbon Capture**, [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10644)
