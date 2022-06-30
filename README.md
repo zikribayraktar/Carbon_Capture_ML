@@ -10,6 +10,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Harnessing the power of machine learning for carbon capture, utilisation, and storage (CCUS) – a state-of-the-art review.** Energy Environ. Sci., 2021. [paper](https://pubs.rsc.org/en/content/articlelanding/2021/ee/d1ee02395k)
 
+1. **The Potential of Machine Learning for Enhancing CO2 Sequestration, Storage, Transportation, and Utilization-based Processes: A Brief Perspective**, 2022, [paper](https://link.springer.com/article/10.1007/s11837-021-05079-x)
 
 ## [Material Screening / Design](#content)
 
