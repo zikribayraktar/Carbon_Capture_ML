@@ -6,10 +6,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ##### Table of Contents  
 [Survey papers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+[Data Platforms](#emphasis)  
+
 
 ## [Survey papers](#content)
 
