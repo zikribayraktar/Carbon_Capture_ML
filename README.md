@@ -6,7 +6,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## Table of Contents   <a name="content"/>
 [Survey papers](#survey)  
-[Data Platforms](#DATA PLATFORMS)  
+[Data Platforms](#dataplatforms)  
 
 
 ## [Survey papers](#content)  <a name="survey"/>
