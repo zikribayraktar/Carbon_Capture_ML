@@ -46,6 +46,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO2 capture**, 2014, [paper](https://pubs.acs.org/doi/abs/10.1021/jz501331m)
 
+1. **Deep-Learning-Based End-to-End Predictions of CO2 Capture in Metal–Organic Frameworks**, 2022, [paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c00092)
+
 
 
 ## [Surrogate Models](#content)   <a name="surrogatemodels"/>
