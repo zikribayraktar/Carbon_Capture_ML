@@ -56,7 +56,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, 2019, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
 
-
+1. **Efficient surrogates construction of chemical processes: Case studies on pressure swing adsorption and gas-to-liquids**, 2022, [paper](https://aiche.onlinelibrary.wiley.com/doi/epdf/10.1002/aic.17616?src=getftr)
 
 
 ## [Process Modeling](#content)   <a name="processmodeling"/>
