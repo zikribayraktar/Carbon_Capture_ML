@@ -24,6 +24,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **The Potential of Machine Learning for Enhancing CO2 Sequestration, Storage, Transportation, and Utilization-based Processes: A Brief Perspective**, 2022, [paper](https://link.springer.com/article/10.1007/s11837-021-05079-x)
 
+1. **Accelerated discovery of porous materials for carbon capture by machine learning: A review**, 2022, [paper](https://link.springer.com/article/10.1557/s43577-022-00317-2)
+
 ## [Material Screening / Design](#content)  <a name="materialdesign"/>
  
 1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents),
