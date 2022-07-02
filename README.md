@@ -44,6 +44,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Diversifying Databases of Metal Organic Frameworks for HighThroughput Computational Screening**, 2021, [paper](https://pubs.acs.org/doi/10.1021/acsami.1c16220)
 
+1. **Modeling of CO2 adsorption capacity by porous metal organic frameworks using advanced decision tree-based models**, 2021, [paper](https://www.nature.com/articles/s41598-021-04168-w)
+
 1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.**, 2020, [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
 
 1. **Designing exceptional gas-separation polymer membranes using machine learning**, 2020, [paper](https://www.science.org/doi/10.1126/sciadv.aaz4301)
