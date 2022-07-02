@@ -26,6 +26,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Accelerated discovery of porous materials for carbon capture by machine learning: A review**, 2022, [paper](https://link.springer.com/article/10.1557/s43577-022-00317-2)
 
+
+
 ## [Material Screening / Design](#content)  <a name="materialdesign"/>
  
 1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents),
@@ -39,6 +41,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **Machine Learning-Driven Discovery of Metal–Organic Frameworks for Efficient CO2 Capture in Humid Condition**, 2021, [paper](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.0c08806)
 
 1. **Machine Learning-driven High-Throughput Screening of Alloy-Based Catalysts for Selective CO2 Hydrogenation to Methanol.**, 2021, [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
+
+1. **Diversifying Databases of Metal Organic Frameworks for HighThroughput Computational Screening**, 2021, [paper](https://pubs.acs.org/doi/10.1021/acsami.1c16220)
 
 1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.**, 2020, [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
 
