@@ -71,6 +71,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Deep learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, 2021, [paper](https://chemrxiv.org/engage/chemrxiv/article-details/611fb4011d1cc24b4bc8b0e1)
 
+1. **Raman calibration models for chemical species determination in CO2-loaded aqueous MEA solutions using PLS and ANN techniques**, 2021, [paper](https://www.mdpi.com/2305-7084/5/4/87)
 
 
 ## [Capture by Forests](#content)  <a name="captureforest"/>
