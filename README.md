@@ -65,7 +65,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **Efficient surrogates construction of chemical processes: Case studies on pressure swing adsorption and gas-to-liquids**, 2022, [paper](https://aiche.onlinelibrary.wiley.com/doi/epdf/10.1002/aic.17616?src=getftr)
 
 
-## [Process Modeling](#content)   <a name="processmodeling"/>
+## [Process Modeling / Monitoring](#content)   <a name="processmodeling"/>
 
 1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.**, 2021, [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
 
