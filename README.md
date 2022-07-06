@@ -8,7 +8,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 - [Survey Papers](#survey)
 - [Material Screening / Design](#materialdesign)
 - [Surrogate Models](#surrogatemodels)
-- [Process Modeling](#processmodeling)
+- [Process Modeling / Monitoring](#processmodeling)
 - [Capture by Forests](#captureforest)
 - [Capture by Ocean](#captureocean)
 - [Capture by Wetland](#capturewetland)
