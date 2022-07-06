@@ -38,9 +38,13 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Graph neural network predictions of metal organic framework CO2 adsorption properties**, 2021, [paper](https://arxiv.org/abs/2112.10231), [github](https://github.com/usnistgov/alignn),
 
+1. **Robust smart schemes for modeling carbon dioxide uptake in metal − organic frameworks**, 2022, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236121024145)
+
 1. **Machine Learning-Driven Discovery of Metal–Organic Frameworks for Efficient CO2 Capture in Humid Condition**, 2021, [paper](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.0c08806)
 
 1. **Machine Learning-driven High-Throughput Screening of Alloy-Based Catalysts for Selective CO2 Hydrogenation to Methanol.**, 2021, [paper](https://pubs.acs.org/doi/full/10.1021/acsami.1c16696)
+
+1. **Realizing the Data-Driven, Computational Discovery of Metal-Organic Framework Catalysts**, 2021, [paper](https://arxiv.org/abs/2108.06667)
 
 1. **Diversifying Databases of Metal Organic Frameworks for HighThroughput Computational Screening**, 2021, [paper](https://pubs.acs.org/doi/10.1021/acsami.1c16220)
 
@@ -63,6 +67,9 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, 2019, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
 
 1. **Efficient surrogates construction of chemical processes: Case studies on pressure swing adsorption and gas-to-liquids**, 2022, [paper](https://aiche.onlinelibrary.wiley.com/doi/epdf/10.1002/aic.17616?src=getftr)
+
+1. **Experimental data, thermodynamic and neural network modeling of CO2 absorption capacity for 2-amino-2-methyl-1-propanol (AMP)+ Methanol (MeOH)+ H2O system**, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S1875510019303129)
+
 
 
 ## [Process Modeling / Monitoring](#content)   <a name="processmodeling"/>
@@ -111,17 +118,12 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [OTHERS](#content)   <a name="others"/>
 
-1. **Robust smart schemes for modeling carbon dioxide uptake in metal − organic frameworks**, 2022, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0016236121024145)
 
 1. **Applied Machine Learning for Prediction of CO2 Adsorption on Biomass Waste-Derived Porous Carbons**, 2021, [paper](https://pubs.acs.org/doi/10.1021/acs.est.1c01849)
 
 1. **Multiparameter Neural Network Modeling of Facilitated Transport Mixed Matrix Membranes for Carbon Dioxide Removal**, 2022, [paper](https://pubmed.ncbi.nlm.nih.gov/35448392/)
 
-1. **Realizing the Data-Driven, Computational Discovery of Metal-Organic Framework Catalysts**, 2021, [paper](https://arxiv.org/abs/2108.06667)
-
 1. **Robust Machine Learning Models for Predicting High CO2 Working Capacity and CO2/H2 Selectivity of Gas Adsorption in Metal Organic Frameworks for Precombustion Carbon Capture**, 2019, [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10644)
-
-1. **Experimental data, thermodynamic and neural network modeling of CO2 absorption capacity for 2-amino-2-methyl-1-propanol (AMP)+ Methanol (MeOH)+ H2O system**, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S1875510019303129)
 
 1. **Performance evaluation of the machine learning approaches in modeling of CO2 equilibrium absorption in Piperazine aqueous solution.**, 2018, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217352066)
 
