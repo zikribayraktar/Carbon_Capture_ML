@@ -93,6 +93,9 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Estimation of Future Changes in Aboveground Forest Carbon Stock in Romania. A Prediction Based on Forest-Cover Pattern Scenario.**, [paper](https://www.mdpi.com/1999-4907/11/9/914)
 
+1. **Forest aboveground biomass estimation using Landsat 8 and Sentinel-1A data with machine learning algorithms**, 2020, [paper](https://www.nature.com/articles/s41598-020-67024-3)
+
+
 
 ## [Capture by Ocean](#content)   <a name="captureocean"/>
 
