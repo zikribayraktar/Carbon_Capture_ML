@@ -72,6 +72,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Efficient surrogates construction of chemical processes: Case studies on pressure swing adsorption and gas-to-liquids**, 2022, [paper](https://aiche.onlinelibrary.wiley.com/doi/epdf/10.1002/aic.17616?src=getftr)
 
+1. ***Surrogate modelling of VLE: Integrating machine learning with thermodynamic constraints*, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S2590140020300265?via%3Dihub)
+
 1. **Experimental data, thermodynamic and neural network modeling of CO2 absorption capacity for 2-amino-2-methyl-1-propanol (AMP)+ Methanol (MeOH)+ H2O system**, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S1875510019303129)
 
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
