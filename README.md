@@ -26,6 +26,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Accelerated discovery of porous materials for carbon capture by machine learning: A review**, 2022, [paper](https://link.springer.com/article/10.1557/s43577-022-00317-2)
 
+1. **Technology development and applications of artificial intelligence for post-combustion carbon dioxide capture: Critical literature review and perspectives**, 2021, [paper](https://eureka.slb.com:2056/science/article/pii/S1750583621000591)
+
 
 
 ## [Material Screening / Design](#content)  <a name="materialdesign"/>
