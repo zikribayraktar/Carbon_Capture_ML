@@ -78,6 +78,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Experimental data, thermodynamic and neural network modeling of CO2 absorption capacity for 2-amino-2-methyl-1-propanol (AMP)+ Methanol (MeOH)+ H2O system**, 2020, [paper](https://www.sciencedirect.com/science/article/pii/S1875510019303129)
 
+1. **Computational Material Screening Using Artificial Neural Networks for Adsorption Gas Separation**, 2020, [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c05900)
+
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
 
