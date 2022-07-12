@@ -81,6 +81,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
 
+
+
 ## [Process Modeling / Monitoring](#content)   <a name="processmodeling"/>
 
 1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.**, 2021, [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
@@ -88,6 +90,9 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **Deep learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, 2021, [paper](https://chemrxiv.org/engage/chemrxiv/article-details/611fb4011d1cc24b4bc8b0e1)
 
 1. **Raman calibration models for chemical species determination in CO2-loaded aqueous MEA solutions using PLS and ANN techniques**, 2021, [paper](https://www.mdpi.com/2305-7084/5/4/87)
+
+1. **Learning the properties of a water-lean amine solvent from carbon capture pilot experiments**, 2021, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261920316081) 
+
 
 
 ## [Capture by Forests](#content)  <a name="captureforest"/>
