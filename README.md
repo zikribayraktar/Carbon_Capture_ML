@@ -130,6 +130,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Wetland Change Mapping Using Machine Learning Algorithms, and Their Link with Climate Variation and Economic Growth: A Case Study of Guangling County, China**, [paper](https://www.mdpi.com/2071-1050/14/1/439/pdf)
 
+1. **The Google Earth Engine Mangrove Mapping Methodology (GEEMMM)**, 2020, [paper](https://www.mdpi.com/2072-4292/12/22/3758)
+
 
 
 
