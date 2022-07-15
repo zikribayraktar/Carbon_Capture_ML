@@ -101,6 +101,9 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Application of long short-term memory neural networks for co2 concentration forecast on amine plants**, 2020, [paper](http://rpsonline.com.sg/proceedings/9789811485930/html/4474.xml)
 
+1. **Surrogate-Assisted Modeling and Robust Optimization of a Micro Gas Turbine Plant with Carbon Capture**, 2020, [paper](https://asmedigitalcollection.asme.org/GT/proceedings-abstract/GT2019/58608/V003T06A017/1066665)
+
+
 
 
 ## [Capture by Forests](#content)  <a name="captureforest"/>
