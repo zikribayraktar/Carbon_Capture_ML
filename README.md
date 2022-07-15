@@ -60,6 +60,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Designing exceptional gas-separation polymer membranes using machine learning**, 2020, [paper](https://www.science.org/doi/10.1126/sciadv.aaz4301)
 
+1. **Insights into CO2/N2 Selectivity in Porous Carbons from Deep Learning**, 2020, [paper](https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.9b00374)
+
 1. **Machine-learning approach to the design of OSDAs for zeolite beta**, 2018, [paper](https://www.pnas.org/content/116/9/3413)
 
 1. **Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO2 capture**, 2014, [paper](https://pubs.acs.org/doi/abs/10.1021/jz501331m)
