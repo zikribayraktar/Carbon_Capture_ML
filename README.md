@@ -86,6 +86,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Ensemble Learning of Partition Functions for the Prediction of Thermodynamic Properties of Adsorption in Metal-Organic and Covalent Organic Frameworks**, 2020, [paper](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b07936)
 
+1. **110th Anniversary: Surrogate Models Based on Artificial Neural Networks To Simulate and Optimize Pressure Swing Adsorption Cycles for CO2 Capture**, 2019, [paper](https://pubs.acs.org/doi/10.1021/acs.iecr.9b02383)
+
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
 
