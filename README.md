@@ -121,6 +121,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Forest aboveground biomass estimation using Landsat 8 and Sentinel-1A data with machine learning algorithms**, 2020, [paper](https://www.nature.com/articles/s41598-020-67024-3)
 
+1. **A Data Driven Approach to Decision Support in Farming**, 2020, [paper](https://ebooks.iospress.nl/volumearticle/53699)
+
 
 
 ## [Capture by Ocean](#content)   <a name="captureocean"/>
