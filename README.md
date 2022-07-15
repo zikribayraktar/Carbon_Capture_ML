@@ -62,6 +62,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Insights into CO2/N2 Selectivity in Porous Carbons from Deep Learning**, 2020, [paper](https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.9b00374)
 
+1. **Robust Machine Learning Models for Predicting High CO2 Working Capacity and CO2/H2 Selectivity of Gas Adsorption in Metal Organic Frameworks for Precombustion Carbon Capture**, 2019, [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10644)
+
 1. **Machine-learning approach to the design of OSDAs for zeolite beta**, 2018, [paper](https://www.pnas.org/content/116/9/3413)
 
 1. **Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO2 capture**, 2014, [paper](https://pubs.acs.org/doi/abs/10.1021/jz501331m)
@@ -129,6 +131,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
+
 ## [Capture by Ocean](#content)   <a name="captureocean"/>
 
 1. **Improved Quantification of Ocean Carbon Uptake by Using Machine Learning to Merge Global Models and pCO2 Data.** [paper](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002620)
@@ -136,6 +139,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **A comparative assessment of the uncertainties of global surface ocean CO2 estimates using a machine-learning ensemble (CSIR-ML6 version 2019a) – have we hit the wall?** [paper](https://gmd.copernicus.org/articles/12/5113/2019/gmd-12-5113-2019.pdf)
 
 1. **Estimating spatial and temporal variation in ocean surface pCO2 in the Gulf of Mexico using remote sensing and machine learning techniques**, [paper](https://www.sciencedirect.com/science/article/pii/S0048969720344946)
+
+
 
 
 ## [Capture by Wetland](#content)   <a name="capturewetland"/>
@@ -161,8 +166,6 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **Multiparameter Neural Network Modeling of Facilitated Transport Mixed Matrix Membranes for Carbon Dioxide Removal**, 2022, [paper](https://pubmed.ncbi.nlm.nih.gov/35448392/)
 
 1. **High-performing deep learning regression models for predicting low-pressure CO2 adsorption properties of metal−organic frameworks**, 2020, [paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.0c06334)
-
-1. **Robust Machine Learning Models for Predicting High CO2 Working Capacity and CO2/H2 Selectivity of Gas Adsorption in Metal Organic Frameworks for Precombustion Carbon Capture**, 2019, [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10644)
 
 1. **Performance evaluation of the machine learning approaches in modeling of CO2 equilibrium absorption in Piperazine aqueous solution.**, 2018, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217352066)
 
