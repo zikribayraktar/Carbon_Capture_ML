@@ -99,6 +99,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Learning the properties of a water-lean amine solvent from carbon capture pilot experiments**, 2021, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261920316081) 
 
+1. **Application of long short-term memory neural networks for co2 concentration forecast on amine plants**, 2020, [paper](http://rpsonline.com.sg/proceedings/9789811485930/html/4474.xml)
+
 
 
 ## [Capture by Forests](#content)  <a name="captureforest"/>
