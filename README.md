@@ -103,6 +103,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Surrogate-Assisted Modeling and Robust Optimization of a Micro Gas Turbine Plant with Carbon Capture**, 2020, [paper](https://asmedigitalcollection.asme.org/GT/proceedings-abstract/GT2019/58608/V003T06A017/1066665)
 
+1. **Is hydrothermal treatment coupled with carbon capture and storage an energy-producing negative emissions technology?**, 2020, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0196890419312580)
 
 
 
