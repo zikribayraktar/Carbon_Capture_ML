@@ -9,7 +9,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 - [Material Screening / Design](#materialdesign)
 - [Surrogate Models](#surrogatemodels)
 - [Process Modeling / Monitoring](#processmodeling)
-- [Capture by Forests](#captureforest)
+- [Capture by Forests / Farming](#captureforest)
 - [Capture by Ocean](#captureocean)
 - [Capture by Wetland](#capturewetland)
 - [OTHERS](#others)
@@ -107,7 +107,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
-## [Capture by Forests](#content)  <a name="captureforest"/>
+## [Capture by Forests / Farming](#content)  <a name="captureforest"/>
 
 1. **Quantification of Carbon Sequestration in Urban Forests.**  ArXiv, 2021. [paper](https://arxiv.org/abs/2106.00182v2)
 
