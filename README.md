@@ -82,6 +82,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Experimentally validated machine learning frameworks for accelerated prediction of cyclic steady state and optimization of pressure swing adsorption processes**, 2020, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1383586619345654)
 
+1. **Ensemble Learning of Partition Functions for the Prediction of Thermodynamic Properties of Adsorption in Metal-Organic and Covalent Organic Frameworks**, 2020, [paper](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b07936)
+
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
 
