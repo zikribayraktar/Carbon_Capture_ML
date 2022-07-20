@@ -13,7 +13,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 - [Capture by Ocean](#captureocean)
 - [Capture by Wetland](#capturewetland)
 - [OTHERS](#others)
-- [Data Platforms](#dataplatforms)  
+- [Data](#dataplatforms)  
 
 
 ## [Survey Papers](#content)  <a name="survey"/>
