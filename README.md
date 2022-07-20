@@ -94,8 +94,9 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
-1. **Artificial neural network models for the prediction of CO2 solubility in aqueous amine solutions**, 2015, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1750583615001681)
+1. **Thermodynamics and ANN models for predication of the equilibrium CO2 solubility in aqueous 3-dimethylamino-1-propanol solution**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1750583617302177)
 
+1. **Artificial neural network models for the prediction of CO2 solubility in aqueous amine solutions**, 2015, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1750583615001681)
 
 
 
