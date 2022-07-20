@@ -90,9 +90,13 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **110th Anniversary: Surrogate Models Based on Artificial Neural Networks To Simulate and Optimize Pressure Swing Adsorption Cycles for CO2 Capture**, 2019, [paper](https://pubs.acs.org/doi/10.1021/acs.iecr.9b02383)
 
+1. **Analysis of CO2 equilibrium solubility of seven tertiary amine solvents using thermodynamic and ANN models**, 2019, [paper](https://www.sciencedirect.com/science/article/abs/pii/S001623611930300X)
+
 1. **Application of decision tree learning in modelling CO2 equilibrium absorption in ionic liquids**, 2017, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167732217311947)
 
 1. **Artificial neural network models for the prediction of CO2 solubility in aqueous amine solutions**, 2015, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1750583615001681)
+
+
 
 
 
