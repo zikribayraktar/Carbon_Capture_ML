@@ -34,7 +34,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
  
 1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents), [data](https://github.com/AxelRolov/CO2_chemical_solvents/tree/main/data)
 
-1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, 2022, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382), [github](https://github.com/timhuang123/ML-for-MMM)
+1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, 2022, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382), [github](https://github.com/timhuang123/ML-for-MMM), [data](https://github.com/timhuang123/ML-for-MMM/tree/main/ML-for-MMM-main/data)
 
 1. **Deep-Learning-Based End-to-End Predictions of CO2 Capture in Metal–Organic Frameworks**, 2022, [paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c00092), [github](https://github.com/982999184/MOF), [data](https://github.com/BurnerJ/descriptors-and-pytorch-models-for-low-pressure-co2-adsorption-in-mofs)
 
