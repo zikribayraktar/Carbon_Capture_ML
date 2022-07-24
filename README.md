@@ -36,7 +36,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, 2022, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382), [github](https://github.com/timhuang123/ML-for-MMM)
 
-1. **Deep-Learning-Based End-to-End Predictions of CO2 Capture in Metal–Organic Frameworks**, 2022, [paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c00092)
+1. **Deep-Learning-Based End-to-End Predictions of CO2 Capture in Metal–Organic Frameworks**, 2022, [paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c00092), [github](https://github.com/982999184/MOF), [data](https://github.com/BurnerJ/descriptors-and-pytorch-models-for-low-pressure-co2-adsorption-in-mofs)
 
 1. **Graph neural network predictions of metal organic framework CO2 adsorption properties**, 2021, [paper](https://arxiv.org/abs/2112.10231), [github](https://github.com/usnistgov/alignn),
 
