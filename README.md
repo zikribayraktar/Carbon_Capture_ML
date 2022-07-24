@@ -187,3 +187,6 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **NETL's Energy Data eXchange**, [URL](https://edx.netl.doe.gov/group/)
 
 1. **Data-driven design of metal–organic frameworks for wet flue gas CO2 capture**, 2019, [paper](https://www.nature.com/articles/s41586-019-1798-7), [data](https://archive.materialscloud.org/record/2018.0016/v3), [code](https://github.com/peteboyd/tobascco)
+
+1. **OSDB: A database of organic structure-directing agents for zeolites**, [data](https://zeodb.mit.edu/index)
+
