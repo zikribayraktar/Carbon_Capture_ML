@@ -32,7 +32,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Material Screening / Design](#content)  <a name="materialdesign"/>
  
-1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents),
+1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents), [data](https://github.com/AxelRolov/CO2_chemical_solvents/tree/main/data)
 
 1. **Design and prediction of metal organic framework-based mixed matrix membranes for CO2 capture via machine learning**, 2022, [paper](https://www.sciencedirect.com/science/article/pii/S2666386422001382), [github](https://github.com/timhuang123/ML-for-MMM)
 
