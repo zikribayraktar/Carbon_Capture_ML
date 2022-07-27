@@ -54,6 +54,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Machine Learning-based approach for Tailor-Made design of ionic Liquids: Application to CO2 capture**, 2021, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1383586621008273)
 
+1. **High-Performing Deep Learning Regression Models for Predicting Low-Pressure CO2 Adsorption Properties of Metal−Organic Frameworks**, 2020, [paper](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.0c06334), [github](https://github.com/BurnerJ/descriptors-and-pytorch-models-for-low-pressure-co2-adsorption-in-mofs), [data](https://1drv.ms/u/s!AtuVqcWZi8aAy11S2wxataTe8IMH)
+
 1. **Machine Learning Enabled Tailor-Made Design of Application-Specific Metal–Organic Frameworks**, 2020, [paper](https://pubs.acs.org/doi/10.1021/acsami.9b17867)
 
 1. **Prediction of mof performance in vacuum swing adsorption systems for postcombustion CO2 capture based on integrated molecular simulations, process optimizations, and machine learning models.**, 2020, [paper](https://pubs.acs.org/doi/10.1021/acs.est.9b07407)
