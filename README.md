@@ -194,11 +194,13 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **OSDB: A database of organic structure-directing agents for zeolites**, [data](https://zeodb.mit.edu/index)
 
 
-## Citation(#citeme)  <a name="cite_this_repo"/>
+## [Citation](#citeme)  <a name="cite_this_repo"/>
 
+```bibtex
 @misc{Carbon_Capture_ML,
   author={Zikri Bayraktar},
   title={Carbon Capture Machine Learning Literature, Data and Code},
   year={2022},
   url={https://github.com/zikribayraktar/Carbon_Capture_ML/},
 }
+```
