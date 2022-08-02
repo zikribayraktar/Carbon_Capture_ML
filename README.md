@@ -14,7 +14,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 - [Capture by Wetland](#capturewetland)
 - [OTHERS](#others)
 - [Data](#dataplatforms)  
-- [Citation](#citeme)
+- [Citation](#cite_this_repo)
 
 
 ## [Survey Papers](#content)  <a name="survey"/>
@@ -194,7 +194,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 1. **OSDB: A database of organic structure-directing agents for zeolites**, [data](https://zeodb.mit.edu/index)
 
 
-## [Citation](#citeme)  <a name="cite_this_repo"/>
+## [Citation](#content)  <a name="cite_this_repo"/>
 
 If you find the information listed here useful and utilize in your published work, please consider citing it. 
 
