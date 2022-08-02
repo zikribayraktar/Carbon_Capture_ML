@@ -196,6 +196,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Citation](#citeme)  <a name="cite_this_repo"/>
 
+If you find the information listed here useful and utilize in your published work, please consider citing it. 
+
 ```bibtex
 @misc{Carbon_Capture_ML,
   author={Zikri Bayraktar},
