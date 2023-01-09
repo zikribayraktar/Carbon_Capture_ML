@@ -128,7 +128,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Quantification of Carbon Sequestration in Urban Forests.**  ArXiv, 2021. [paper](https://arxiv.org/abs/2106.00182v2)
 
-1. **Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees.**, ArXiv, 2020. [paper](https://arxiv.org/abs/2009.10263)
+1. **Semantic Workflows and Machine Learning for the Assessment of Carbon Storage by Urban Trees.**, ArXiv, 2020. [paper](https://arxiv.org/abs/2009.10263), [github](https://github.com/jmcarrillog/machine-learning-workflow-for-carbon-assessment), [data](https://github.com/jmcarrillog/machine-learning-workflow-for-carbon-assessment/tree/master/data)
  
 1. **Machine learning for carbon stock prediction in a tropical forest in Southeastern Brazil.**, SciELO, Brazil, 2021. [paper](https://www.scielo.cl/scielo.php?pid=S0717-92002021000100131&script=sci_abstract&tlng=en)
  
