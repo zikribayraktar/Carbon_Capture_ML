@@ -106,6 +106,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Process Modeling / Monitoring](#content)   <a name="processmodeling"/>
 
+1. **Machine learning for industrial processes: Forecasting amine emissions from a carbon capture plant.**, 2023, [paper]( https://www.science.org/doi/10.1126/sciadv.adc9576), [github](https://github.com/kjappelbaum/aeml), [data](https://github.com/kjappelbaum/aeml/tree/main/data)
+
 1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.**, 2021, [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
 
 1. **Deep learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, 2021, [paper](https://chemrxiv.org/engage/chemrxiv/article-details/611fb4011d1cc24b4bc8b0e1)
