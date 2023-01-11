@@ -205,6 +205,7 @@ If you find the information listed here useful and utilize in your published wor
   author={Zikri Bayraktar},
   title={Carbon Capture Machine Learning Literature, Data and Code},
   year={2022},
-  url={https://github.com/zikribayraktar/Carbon_Capture_ML/},
+  url={https://github.com/zikribayraktar/Carbon_Capture_ML/}
+  doi={10.5281/zenodo.7527366},
 }
 ```
