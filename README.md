@@ -75,6 +75,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Surrogate Models](#content)   <a name="surrogatemodels"/>
 
+1. **Prediction of CO2 Adsorption in Nano-Pores with Graph Neural Networks**, 2022, [paper](https://arxiv.org/abs/2209.07567)
+
 1. **Performance-based ranking of porous materials for PSA carbon capture under the uncertainty of experimental data**, 2022, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1385894722008981)
 
 1. **Deep neural network learning of complex binary sorption equilibria from molecular simulation data.**, 2019, [paper](https://pubs.rsc.org/en/content/articlelanding/2019/SC/C8SC05340E)
