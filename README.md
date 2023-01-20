@@ -200,14 +200,6 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Citation](#content)  <a name="cite_this_repo"/>
 
-If you find the information listed here useful and utilize in your published work, please consider citing it. 
+If you find the information listed here useful and if you utilize it in your published work, please consider citing it using the citation information on the upper right corner of this repo. Thanks!
 
-```bibtex
-@misc{Carbon_Capture_ML,
-  author={Zikri Bayraktar},
-  title={Carbon Capture Machine Learning Literature, Data and Code},
-  year={2022},
-  url={https://github.com/zikribayraktar/Carbon_Capture_ML/}
-  doi={10.5281/zenodo.7527366},
-}
-```
+
