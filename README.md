@@ -126,6 +126,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Is hydrothermal treatment coupled with carbon capture and storage an energy-producing negative emissions technology?**, 2020, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0196890419312580)
 
+1. **Cost reduction of CO2 capture processes using reinforcement learning based iterative design: A pilot-scale absorption–stripping system**, 2014, [paper](https://eureka.slb.com:2056/science/article/abs/pii/S1383586613006163?via%3Dihub)
 
 
 ## [Capture by Forests / Farming](#content)  <a name="captureforest"/>
