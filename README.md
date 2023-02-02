@@ -31,7 +31,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 
-## [Material Screening / Design](#content)  <a name="materialdesign"/>
+## [Material Screening / Design / Generation](#content)  <a name="materialdesign"/>
  
 1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents), [data](https://github.com/AxelRolov/CO2_chemical_solvents/tree/main/data)
 
@@ -110,9 +110,11 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Process Modeling / Monitoring](#content)   <a name="processmodeling"/>
 
-1. **Machine learning for industrial processes: Forecasting amine emissions from a carbon capture plant.**, 2023, [paper]( https://www.science.org/doi/10.1126/sciadv.adc9576), [github](https://github.com/kjappelbaum/aeml), [data](https://github.com/kjappelbaum/aeml/tree/main/data)
+1. **Machine learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, 2023, [paper]( https://www.science.org/doi/10.1126/sciadv.adc9576), [github](https://github.com/kjappelbaum/aeml), [data](https://github.com/kjappelbaum/aeml/tree/main/data)
 
-1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit.**, 2021, [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
+1. **Agent-Based and Stochastic Optimization Incorporated with Machine Learning for Simulation of Postcombustion CO2 Capture Process**, 2022, [paper](https://www.mdpi.com/2227-9717/10/12/2727)
+
+1. **A machine learning approach for modeling and optimization of a CO2 post-combustion capture unit**, 2021, [paper]( https://www.sciencedirect.com/science/article/abs/pii/S0360544220322209)
 
 1. **Deep learning for industrial processes: Forecasting amine emissions from a carbon capture plant**, 2021, [paper](https://chemrxiv.org/engage/chemrxiv/article-details/611fb4011d1cc24b4bc8b0e1)
 
@@ -126,7 +128,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 1. **Is hydrothermal treatment coupled with carbon capture and storage an energy-producing negative emissions technology?**, 2020, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0196890419312580)
 
-1. **Cost reduction of CO2 capture processes using reinforcement learning based iterative design: A pilot-scale absorption–stripping system**, 2014, [paper](https://eureka.slb.com:2056/science/article/abs/pii/S1383586613006163?via%3Dihub)
+1. **Cost reduction of CO2 capture processes using reinforcement learning based iterative design: A pilot-scale absorption–stripping system**, 2014, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1383586613006163)
 
 
 ## [Capture by Forests / Farming](#content)  <a name="captureforest"/>
