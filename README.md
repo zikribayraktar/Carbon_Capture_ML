@@ -32,7 +32,9 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 
 ## [Material Screening / Design / Generation](#content)  <a name="materialdesign"/>
- 
+
+1. **Modeling and Optimizing N/O-Enriched Bio-Derived Adsorbents for CO2 Capture: Machine Learning and DFT Calculation Approaches**, 2022, [paper](https://pubs.acs.org/doi/10.1021/acs.iecr.2c01887)
+
 1. **MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks**, 2022, [paper](https://www.nature.com/articles/s41597-022-01181-0), [github](https://github.com/hjkgrp/text_mining_tools), [demo](https://mofsimplify.mit.edu/)
 
 1. **Computational screening methodology identiﬁes effective solvents for CO2 capture**, 2022, [paper](https://www.nature.com/articles/s42004-022-00654-y.epdf), [github](https://github.com/AxelRolov/CO2_chemical_solvents), [data](https://github.com/AxelRolov/CO2_chemical_solvents/tree/main/data)
