@@ -202,6 +202,8 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [DATA](#content)    <a name="dataplatforms"/>
 
+1. **OpenDAC by Meta AI**, [URL](https://open-dac.github.io/)
+
 1. **Amazon Sustainability Data Initiative**, [URL](https://sustainability.aboutamazon.com/environment/the-cloud/asdi)
 
 1. **NETL's Energy Data eXchange**, [URL](https://edx.netl.doe.gov/group/)
