@@ -33,6 +33,12 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Material Screening / Design / Generation](#content)  <a name="materialdesign"/>
 
+1. **Graph Neural Network based Screening of Metal Organic Framework for CO2 Capture**, 2024, [paper](TBA)
+
+1. **Graph Neural Network Generated Metal-Organic Frameworks for Carbon Capture**, 2023, [paper](https://www.climatechange.ai/papers/iclr2023/12)
+   
+1. **MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design**, 2023, [paper](https://arxiv.org/abs/2310.10732)
+
 1. **Modeling and Optimizing N/O-Enriched Bio-Derived Adsorbents for CO2 Capture: Machine Learning and DFT Calculation Approaches**, 2022, [paper](https://pubs.acs.org/doi/10.1021/acs.iecr.2c01887)
 
 1. **MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks**, 2022, [paper](https://www.nature.com/articles/s41597-022-01181-0), [github](https://github.com/hjkgrp/text_mining_tools), [demo](https://mofsimplify.mit.edu/)
