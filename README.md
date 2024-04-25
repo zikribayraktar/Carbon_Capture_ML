@@ -33,7 +33,7 @@ This repo came to life following the [ML in Carbon Capture reading group](https:
 
 ## [Material Screening / Design / Generation](#content)  <a name="materialdesign"/>
 
-1. **Graph Neural Network based Screening of Metal Organic Framework for CO2 Capture**, 2024, [paper](TBA)
+1. **Graph Neural Network based Screening of Metal Organic Framework for CO2 Capture**, 2024, [paper](https://www.climatechange.ai/papers/iclr2024/65)
 
 1. **Graph Neural Network Generated Metal-Organic Frameworks for Carbon Capture**, 2023, [paper](https://www.climatechange.ai/papers/iclr2023/12)
    
